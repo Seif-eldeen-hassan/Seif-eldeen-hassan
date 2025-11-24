@@ -28,12 +28,12 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn logo" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://wa.me/201010272547" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/whatsapp.svg" height="40" alt="WhatsApp logo" />
-  </a>&nbsp;&nbsp;
-
   <a href="https://discord.com/users/seif_eldn" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord logo" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://wa.me/201010272547" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/whatsapp.svg" height="40" alt="WhatsApp logo" />
   </a>&nbsp;&nbsp;
 
   <a href="https://www.kaggle.com/seifeldeen232" target="_blank" rel="noopener noreferrer">
