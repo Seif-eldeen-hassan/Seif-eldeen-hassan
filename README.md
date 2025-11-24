@@ -10,10 +10,14 @@
   </a>
 </p>
 
+<br/>
+
+
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Anmol-singh2/Anmol-singh2/master/icons/connect.gif" height="30" alt="Connect icon" />
   Let's Connect & Code Together
 </h3>
+
 
 <div align="center">
   <a href="mailto:seifeldeen568@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -60,5 +64,14 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pandas.svg" height="50" alt="Pandas" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/scikitlearn.svg" height="50" alt="Scikit-learn" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/numpy.svg" height="50" alt="NumPy" />
-  
 </div>
+
+<br/> 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Seif-eldeen-hassan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak Stats" />
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Seif-eldeen-hassan/Seif-eldeen-hassan/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
+</p>
