@@ -2,21 +2,26 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # يتم التشغيل يوميًا في منتصف الليل (UTC)
+  workflow_dispatch: # لتشغيله يدويًا عند الحاجة
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # 1. سحب كود المستودع
       - uses: actions/checkout@v4
+      
+      # 2. توليد صورة Pac-Man
       - uses: Platane/snk@v3
         with:
-          github_user_name: Seif-eldeen-hassan
+          github_user_name: Seif-eldeen-hassan # اسم المستخدم الخاص بك
+          mode: pacman # **هذا يحدد النمط لـ Pac-Man**
           outputs: |
             dist/pacman-contribution-graph-dark.svg
             dist/pacman-contribution-graph.svg
-        
+            
+      # 3. حفظ الصورة التي تم توليدها في فرع output
       - name: Push new Pacman SVG to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
