@@ -6,7 +6,6 @@
   Follow me to see the latest tech projects
 </p>
 
----
 
 <h3 align="center">Contact Me</h3>
 
