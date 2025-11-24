@@ -25,7 +25,7 @@
   </a>&nbsp;&nbsp;
 
   <a href="https://wa.me/201010272547" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="40" alt="WhatsApp logo" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/whatsapp.svg" height="40" alt="WhatsApp logo" />
   </a>&nbsp;&nbsp;
 
   <a href="https://discord.com/users/seif_eldn" target="_blank" rel="noopener noreferrer">
@@ -36,4 +36,29 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kaggle.svg" height="40" alt="Kaggle logo" />
   </a>&nbsp;&nbsp;
 
+</div>
+
+<br/>
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Maurodesouza/profile-readme-generator/master/src/assets/icons/others/tools.svg" height="25" alt="" />
+  Top Technical Skills & Tools
+</h3>
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=angular" height="50" alt="Angular" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="C#" />
+  
+  <br/>
+  
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pandas.svg" height="50" alt="Pandas" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/scikitlearn.svg" height="50" alt="Scikit-learn" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/numpy.svg" height="50" alt="NumPy" />
+  
 </div>
