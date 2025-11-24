@@ -1,1 +1,5 @@
-<h1 align="center">Meet Seif El-Deen</h1>
+![Meet Seif El-Deen](neon.jpg)
+
+<p align="center">
+  <img src="neon.jpg" alt="Meet Seif El-Deen Banner" width="900"/>
+</p>
