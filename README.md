@@ -72,6 +72,8 @@
   <img src="https://streak-stats.demolab.com?user=Seif-eldeen-hassan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak Stats" />
 </div>
 
+<br/> 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Seif-eldeen-hassan/Seif-eldeen-hassan/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
 </p>
