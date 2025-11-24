@@ -5,7 +5,7 @@
 <h1 align="center">Front-End Developer | Machine Learning Engineer</h1>
 
 <p align="center">
-  <a href="https://github.com/Seif-eldeen-hassan?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_me_for_more_tech_projects-000000?style=for-the-badge&logoColor=39FF14&color=000000&labelColor=000000" alt="Follow me badge" />
+  <a href="https://github.com/Seif-eldeen-hassan?tab=repositories" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/FOLLOW_ME_FOR_MORE_TECH_PROJECTS-000000?style=for-the-badge&logoColor=39FF14&color=000000&labelColor=000000" alt="Follow me badge" />
   </a>
 </p>
