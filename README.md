@@ -147,12 +147,6 @@
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Live Code Metrics</h2>
 
 <div align="center">
-  <a href="https://github.com/Seif-eldeen-hassan">
-    <img src="https://github-readme-stats.vercel.app/api?username=Seif-eldeen-hassan&show_icons=true&count_private=true&bg_color=0d1117&title_color=39FF14&text_color=ffffff&icon_color=39FF14&border_color=39FF14&border_radius=10" height="150" alt="Seif's Stats" />
-  </a>
-  <a href="https://github.com/Seif-eldeen-hassan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seif-eldeen-hassan&layout=compact&bg_color=0d1117&title_color=39FF14&text_color=ffffff&icon_color=39FF14&border_color=39FF14&border_radius=10&hide=html,css" height="150" alt="Top Languages" />
-  </a>
   
   <br><br>
 
