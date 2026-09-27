@@ -13,7 +13,7 @@
 
 <p align="center">
     <i>
-        This is <b>Seif El-Deen</b>, a 3rd-year undergraduate <b>AI & Data Science</b> student at <b>Cairo University</b>.
+        This is <b>Seif El-Deen</b>, a 4th-year senior student <b>AI & Data Science</b> student at <b>Cairo University</b>.
         <br>
         Specializing in <b>Deep Learning & Computer Vision</b> as my primary focus,
         <br>
