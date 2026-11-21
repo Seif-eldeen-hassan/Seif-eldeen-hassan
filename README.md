@@ -5,7 +5,7 @@
 <h1 align="center"> Hi there, I'm Seif <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 <p align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Computer+Vision+%26+NLP;Front-End+Engineer+%7C+Angular+%26+TypeScript;FCAI+Student+%7C+AI+Major+%7C+3rd+Year;Founder+%26+CEO+of+Baddel" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Computer+Vision+%26+NLP;Front-End+Engineer+%7C+Angular+%26+TypeScript;FCAI+Student+%7C+AI+Major+%7C+4th+Year;Founder+%26+CEO+of+Baddel" alt="Typing SVG" />
   </a>
 </p>
 
